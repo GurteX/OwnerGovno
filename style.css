@@ -1,0 +1,28 @@
+.block{
+	margin: 50px auto;
+	height: 300px;
+	width: 900px;
+	background-color: #aaa;
+	border-radius: 50px;
+	text-align: center;
+}
+.text_line{
+	font-size: 64px;
+}
+.button_wrpper{
+	padding-top: 120px;
+}
+.r{
+	height: 50px;
+	width: 100px;
+
+}
+.b{
+	height: 90px;
+	width: 30px;
+}
+.bc{
+height: 90px;
+width: 50px;
+
+}
